@@ -30,6 +30,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/asifahmedtanjid" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <!-- <a href="https://www.facebook.com/asifahmedtanjid" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a> -->
+  <a href="https://www.facebook.com/asifahmedtanjid" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asifahmedtanjid" height="45" width="45" /></a>
   <!-- <a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a> -->
   <a href="mailto:asifahmedtanjid@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://leetcode.com/u/asifahmedtanjid/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
