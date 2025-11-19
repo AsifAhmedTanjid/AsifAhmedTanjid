@@ -27,18 +27,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:asifahmedtanjid@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://linkedin.com/in/asifahmedtanjid" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <!-- <a href="https://www.facebook.com/asifahmedtanjid" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a> -->
-  <a href="https://www.facebook.com/asifahmedzayan" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asifahmedtanjid" height="45" width="45" /></a>
-  <!-- <a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a> -->
-  <a href="https://leetcode.com/u/asifahmedtanjid/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 
 ### 🔤 Languages
@@ -80,6 +68,18 @@
 
 ---
 
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:asifahmedtanjid@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://linkedin.com/in/asifahmedtanjid" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <!-- <a href="https://www.facebook.com/asifahmedtanjid" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a> -->
+  <a href="https://www.facebook.com/asifahmedzayan" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asifahmedtanjid" height="45" width="45" /></a>
+  <!-- <a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a> -->
+  <a href="https://leetcode.com/u/asifahmedtanjid/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
+</p>
+
+---
+
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AsifAhmedTanjid&theme=onedark&margin-w=10" />
@@ -91,8 +91,8 @@
 
 ### 📁 GitHub Statistics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AsifAhmedTanjid&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAhmedTanjid&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=AsifAhmedTanjid&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAhmedTanjid&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ### 🔥 Streak Stats
