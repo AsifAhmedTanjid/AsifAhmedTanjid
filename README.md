@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Fullstack+Engineer;Python,+C#,+PHP,+Odoo;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Fullstack+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,8 @@
 - 🌱 Currently exploring **advanced MERN patterns, TypeScript, and clean architecture**  
 - 💬 Ask me about **JavaScript, Node.js, React.js, Python, Odoo, C#, PHP, databases, and full-stack development**  
 - 📫 Reach me anytime: **[asifahmedtanjid@gmail.com](mailto:asifahmedtanjid@gmail.com)**  
-- 📄 [View my Resume](https://drive.google.com/file/d/1GnvjM6Tc2sSMAS9F8RCksSuimMQcLjI6/view?usp=sharing)  
+- 📄 [View my Resume](https://drive.google.com/file/d/1GnvjM6Tc2sSMAS9F8RCksSuimMQcLjI6/view?usp=sharing)
+- 🎉 Fun Fact: **I break things just to learn how to fix them.**
 
 ---
 
