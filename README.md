@@ -41,7 +41,7 @@
 
 ### 🔤 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,csharp,php,odoo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,python,php" />
 </p>
 
 ### 🎨 CSS Frameworks & Libraries
@@ -49,9 +49,9 @@
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-### ⚛️ JS Frameworks & Libraries
+### ⚛️ JS & Backend Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet" />
 </p>
 
 ### 🗄️ Databases
@@ -59,10 +59,12 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql,postgres,firebase" />
 </p>
 
-### 🚀 Deployment
+### 🚀 Deployment & Auth
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 </p>
+
+- 🔑 Experienced in **Firebase Authentication** and **JWT-based authentication**
 
 ### 🎨 Design & Graphics
 <p align="center">
