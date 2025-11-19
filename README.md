@@ -58,7 +58,7 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### 🚀 Deployment & Auth
