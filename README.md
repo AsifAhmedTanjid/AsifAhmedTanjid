@@ -1,6 +1,6 @@
 <!--- Banner --->
 <p align="center">
-  <img src="https://github.com/AsifAhmedTanjid/AsifAhmedTanjid/raw/main/github-header-banner.png" alt="Asif Ahmed Tanjid Banner" width="100%" />
+  <img src="https://github.com/AsifAhmedTanjid/AsifAhmedTanjid/raw/main/my-banner.png" alt="Asif Ahmed Tanjid Banner" width="100%" />
 </p>
 
 <!--- Title --->
