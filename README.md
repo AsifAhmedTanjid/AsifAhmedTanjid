@@ -91,8 +91,8 @@
 
 ### 📁 GitHub Statistics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AsifAhmedTanjid&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAhmedTanjid&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats-five-ivory-96.vercel.app/api?username=AsifAhmedTanjid&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats-five-ivory-96.vercel.app/api/top-langs/?username=AsifAhmedTanjid&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ### 🔥 Streak Stats
